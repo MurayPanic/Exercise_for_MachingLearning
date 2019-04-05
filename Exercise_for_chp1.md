@@ -124,7 +124,7 @@ $(A=a)V (A=*)$ 与$(A=*)$等价
 
 # 1.4
 
-$$ \sum_f \sum E_{ote}(L_a| X, f) $$
+![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
 
 
 
