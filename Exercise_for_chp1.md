@@ -125,7 +125,7 @@ $(A=a)V (A=*)$ 与$(A=*)$等价
 # 1.4
 按照书中的推导，将度量函数换一下即可。
 
-![](http://latex.codecogs.com/gif.latex?\\sum_f\\sum_f%20\\sum%20E_{ote}(%20\\mathcal{L}_a|%20X,%20f)\\\\%20=%20\\sum_f%20\\sum_h\\sum_{x%20\\in%20\\mathcal{X}-X}%20P(\\mathbf{x})%20l(h(\\mathbf{x}),f(\\mathbf{x}))P(h|X,%20\\mathcal{L}_a)\\\\%20=\\sum_{x%20\\in%20\\mathcal{X}-X}P(\\mathbf{x})%20\\sum_h%20P(h|X,%20\\mathcal{L}_a)%20\\sum_f%20l(h(\\mathbf{x}),f(\\mathbf{x}))\\\\%20=\\sum_{x%20\\in%20\\mathcal{X}-X}P(\\mathbf{x})%20\\sum_h%20P(h|X,%20\\mathcal{L}_a)%201/2%20\\cdot%202^{|\\mathcal{x}|}%20\\\\%20=1/2%20\\cdot%202^{|\\mathcal{x}|%20}%20\\sum_{x%20\\in%20\\mathcal{X}-X}P(\\mathbf{x})%20\\sum_h%20P(h|X,%20\\mathcal{L}_a)%20}\\\\%20=2^{|\\mathcal{x}|%20-1}%20\\sum_{x%20\\in%20\\mathcal{X}-X}P(\\mathbf{x})%20\\cdot%201) 
+![](http://latex.codecogs.com/gif.latex?\\sum_f%20\\sum%20E_{ote}(%20\\mathcal{L}_a|%20X,%20f)\\\\%20=%20\\sum_f%20\\sum_h\\sum_{x%20\\in%20\\mathcal{X}-X}%20P(\\mathbf{x})%20l(h(\\mathbf{x}),f(\\mathbf{x}))P(h|X,%20\\mathcal{L}_a)\\\\%20=\\sum_{x%20\\in%20\\mathcal{X}-X}P(\\mathbf{x})%20\\sum_h%20P(h|X,%20\\mathcal{L}_a)%20\\sum_f%20l(h(\\mathbf{x}),f(\\mathbf{x}))\\\\%20=\\sum_{x%20\\in%20\\mathcal{X}-X}P(\\mathbf{x})%20\\sum_h%20P(h|X,%20\\mathcal{L}_a)%201/2%20\\cdot%202^{|\\mathcal{x}|}%20\\\\%20=1/2%20\\cdot%202^{|\\mathcal{x}|%20}%20\\sum_{x%20\\in%20\\mathcal{X}-X}P(\\mathbf{x})%20\\sum_h%20P(h|X,%20\\mathcal{L}_a)%20}\\\\%20=2^{|\\mathcal{x}|%20-1}%20\\sum_{x%20\\in%20\\mathcal{X}-X}P(\\mathbf{x})%20\\cdot%201) 
 
 
 
