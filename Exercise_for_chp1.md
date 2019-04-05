@@ -125,7 +125,7 @@ $(A=a)V (A=*)$ 与$(A=*)$等价
 # 1.4
 按照书中的推导，将度量函数换一下即可。
 
-![](http://latex.codecogs.com/gif.latex?\sum_f \sum E_{ote}) 
+![](http://latex.codecogs.com/gif.latex?\\ \sum_f \sum E_{ote}) 
 
 
 
