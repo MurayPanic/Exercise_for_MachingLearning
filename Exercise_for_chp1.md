@@ -124,7 +124,7 @@ $(A=a)V (A=*)$ 与$(A=*)$等价
 
 # 1.4
 
-$$\sum_f \sum E_{ote}(L_a| X, f)$$
+$$ \sum_f \sum E_{ote}(L_a| X, f) $$
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 
