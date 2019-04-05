@@ -125,7 +125,7 @@ $(A=a)V (A=*)$ 与$(A=*)$等价
 # 1.4
 按照书中的推导，将度量函数换一下即可。
 
-![](http://latex.codecogs.com/gif.latex? \sum_f )
+![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
 
 # 1.5
 推荐系统，优化用户搜索偏好等。
