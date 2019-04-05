@@ -120,3 +120,11 @@ $(A=a)V (A=*)$ 与$(A=*)$等价
 # 1.3
 
 由于包含噪声，所以选择那些与极少数样本不一致，但是与大多数样本一致的假设。
+
+
+# 1.4
+
+$$\sum_f \sum E_{ote}(L_a| X, f)$$
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
